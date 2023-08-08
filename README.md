@@ -8,4 +8,4 @@ This is to explore the mnist dataset:
 ![image](clustering.png)
 
 # Interactive viewing sampled mnist dataset with tsne + k-means cluster + actual images via plotly dash
-<img width="1433" alt="tsne_kmeans_plolty" src="tsne_kmeans_plotly.png">
+![image](tsne_kmeans_plotly.png)
